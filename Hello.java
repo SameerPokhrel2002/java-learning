@@ -8,5 +8,16 @@ public class Hello {
         {
             System.out.println("It is not an alien!");
         }
+
+        int _topScore=80;
+     
+        int secondTopScore=60;
+        if (_topScore> secondTopScore && _topScore<100)
+        {
+            System.out.println("Greater than second top score and less than 100");
+        }
+
+
+        
      }
 }
