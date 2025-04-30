@@ -13,7 +13,10 @@ public class Main {
             highScore-=100;
         }
         System.out.println("highScore="+highScore);
-        System.out.println("health="+health);      
+        System.out.println("kilometers="+kilometers);      
         System.out.println("health="+health);
+
+
+
     }
 }

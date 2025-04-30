@@ -7,5 +7,6 @@ public class TernaryOperator {
         int num=scanner.nextInt();
         String result=(num%2==0)?"even":"odd";
         System.out.println("you entered "+num+" which is "+ result);
+        scanner.close();
 }
 }
