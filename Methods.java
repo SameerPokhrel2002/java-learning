@@ -11,7 +11,7 @@ public class Methods {
 
         if(gameOver){
             finalScore+=(levelCompleted*bonus);
-            finalScore+=100;
+            finalScore+=1000;
             System.out.println("Your final score was "+ finalScore);
         }
         
