@@ -14,6 +14,10 @@ public class Methods {
             finalScore+=1000;
             System.out.println("Your final score was "+ finalScore);
         }
+
         
     }
     }
+
+
+   
