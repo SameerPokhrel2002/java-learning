@@ -1,0 +1,30 @@
+{
+    // Disable GitHub Copilot completely
+    
+    "github.copilot..enable": false,
+    "github.copilot.autostart": false,
+  
+    // General UI simplification
+    "editor.suggest.showWords": true,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+    "editor.inlineSuggest.enabled": false,
+  
+    // Git integration (remains enabled)
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+  
+    // Formatting and readability
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+  
+    // Minimal distractions
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true
+  }
+  
