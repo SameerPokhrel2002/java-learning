@@ -24,7 +24,6 @@
   
     // Minimal distractions
     "workbench.startupEditor": "none",
-    "workbench.activityBar.visible": true,
     "workbench.statusBar.visible": true
   }
   

@@ -31,8 +31,8 @@ public class Switch {
 
         System.out.println("The day is: " + dayName);
 
-        int switchValue=2;
-        switch (switchValue){
+        int switchValue = 2;
+        switch (switchValue) {
             case 1:
                 System.out.println("Value is 1");
                 break;
@@ -47,4 +47,3 @@ public class Switch {
         }
     }
 }
- 
